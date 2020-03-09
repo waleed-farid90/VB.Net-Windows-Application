@@ -1,0 +1,78 @@
+C:\Users\cstuser\source\repos\AppDB\AppDB\bin\Debug\AppDB.exe.config
+C:\Users\cstuser\source\repos\AppDB\AppDB\bin\Debug\AppDB.exe
+C:\Users\cstuser\source\repos\AppDB\AppDB\bin\Debug\AppDB.pdb
+C:\Users\cstuser\source\repos\AppDB\AppDB\bin\Debug\AppDB.xml
+C:\Users\cstuser\source\repos\AppDB\AppDB\bin\Debug\MySql.Data.dll
+C:\Users\cstuser\source\repos\AppDB\AppDB\bin\Debug\MySql.Data.xml
+C:\Users\cstuser\source\repos\AppDB\AppDB\obj\Debug\AppDB.vbprojAssemblyReference.cache
+C:\Users\cstuser\source\repos\AppDB\AppDB\obj\Debug\AppDB.Form1.resources
+C:\Users\cstuser\source\repos\AppDB\AppDB\obj\Debug\AppDB.Resources.resources
+C:\Users\cstuser\source\repos\AppDB\AppDB\obj\Debug\AppDB.vbproj.GenerateResource.cache
+C:\Users\cstuser\source\repos\AppDB\AppDB\obj\Debug\AppDB.vbproj.CoreCompileInputs.cache
+C:\Users\cstuser\source\repos\AppDB\AppDB\obj\Debug\AppDB.vbproj.CopyComplete
+C:\Users\cstuser\source\repos\AppDB\AppDB\obj\Debug\AppDB.exe
+C:\Users\cstuser\source\repos\AppDB\AppDB\obj\Debug\AppDB.xml
+C:\Users\cstuser\source\repos\AppDB\AppDB\obj\Debug\AppDB.pdb
+E:\Semester 4\Visual Basic\Implementation\Lecture 8\steve\AppDB\AppDB\bin\Debug\AppDB.exe.config
+E:\Semester 4\Visual Basic\Implementation\Lecture 8\steve\AppDB\AppDB\bin\Debug\AppDB.exe
+E:\Semester 4\Visual Basic\Implementation\Lecture 8\steve\AppDB\AppDB\bin\Debug\AppDB.pdb
+E:\Semester 4\Visual Basic\Implementation\Lecture 8\steve\AppDB\AppDB\bin\Debug\AppDB.xml
+E:\Semester 4\Visual Basic\Implementation\Lecture 8\steve\AppDB\AppDB\bin\Debug\MySql.Data.dll
+E:\Semester 4\Visual Basic\Implementation\Lecture 8\steve\AppDB\AppDB\bin\Debug\MySql.Data.xml
+E:\Semester 4\Visual Basic\Implementation\Lecture 8\steve\AppDB\AppDB\obj\Debug\AppDB.vbprojAssemblyReference.cache
+E:\Semester 4\Visual Basic\Implementation\Lecture 8\steve\AppDB\AppDB\obj\Debug\AppDB.Form1.resources
+E:\Semester 4\Visual Basic\Implementation\Lecture 8\steve\AppDB\AppDB\obj\Debug\AppDB.Resources.resources
+E:\Semester 4\Visual Basic\Implementation\Lecture 8\steve\AppDB\AppDB\obj\Debug\AppDB.vbproj.GenerateResource.cache
+E:\Semester 4\Visual Basic\Implementation\Lecture 8\steve\AppDB\AppDB\obj\Debug\AppDB.vbproj.CoreCompileInputs.cache
+E:\Semester 4\Visual Basic\Implementation\Lecture 8\steve\AppDB\AppDB\obj\Debug\AppDB.vbproj.CopyComplete
+E:\Semester 4\Visual Basic\Implementation\Lecture 8\steve\AppDB\AppDB\obj\Debug\AppDB.exe
+E:\Semester 4\Visual Basic\Implementation\Lecture 8\steve\AppDB\AppDB\obj\Debug\AppDB.xml
+E:\Semester 4\Visual Basic\Implementation\Lecture 8\steve\AppDB\AppDB\obj\Debug\AppDB.pdb
+E:\Semester 4\Visual Basic\Implementation\Lecture 9\AppDB\AppDB\bin\Debug\AppDB.exe.config
+E:\Semester 4\Visual Basic\Implementation\Lecture 9\AppDB\AppDB\bin\Debug\AppDB.exe
+E:\Semester 4\Visual Basic\Implementation\Lecture 9\AppDB\AppDB\bin\Debug\AppDB.pdb
+E:\Semester 4\Visual Basic\Implementation\Lecture 9\AppDB\AppDB\bin\Debug\AppDB.xml
+E:\Semester 4\Visual Basic\Implementation\Lecture 9\AppDB\AppDB\bin\Debug\MySql.Data.dll
+E:\Semester 4\Visual Basic\Implementation\Lecture 9\AppDB\AppDB\bin\Debug\MySql.Data.xml
+E:\Semester 4\Visual Basic\Implementation\Lecture 9\AppDB\AppDB\obj\Debug\AppDB.vbprojAssemblyReference.cache
+E:\Semester 4\Visual Basic\Implementation\Lecture 9\AppDB\AppDB\obj\Debug\AppDB.Form1.resources
+E:\Semester 4\Visual Basic\Implementation\Lecture 9\AppDB\AppDB\obj\Debug\AppDB.Resources.resources
+E:\Semester 4\Visual Basic\Implementation\Lecture 9\AppDB\AppDB\obj\Debug\AppDB.vbproj.GenerateResource.cache
+E:\Semester 4\Visual Basic\Implementation\Lecture 9\AppDB\AppDB\obj\Debug\AppDB.vbproj.CoreCompileInputs.cache
+E:\Semester 4\Visual Basic\Implementation\Lecture 9\AppDB\AppDB\obj\Debug\AppDB.vbproj.CopyComplete
+E:\Semester 4\Visual Basic\Implementation\Lecture 9\AppDB\AppDB\obj\Debug\AppDB.exe
+E:\Semester 4\Visual Basic\Implementation\Lecture 9\AppDB\AppDB\obj\Debug\AppDB.xml
+E:\Semester 4\Visual Basic\Implementation\Lecture 9\AppDB\AppDB\obj\Debug\AppDB.pdb
+E:\Semester 4\Visual Basic\Implementation\Lecture 9\AppDB\AppDB\obj\Debug\AppDB.ConnectionForm.resources
+E:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\obj\Debug\AppDB.vbprojAssemblyReference.cache
+E:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\obj\Debug\AppDB.ConnectionForm.resources
+E:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\obj\Debug\AppDB.Form1.resources
+E:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\obj\Debug\AppDB.Resources.resources
+E:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\obj\Debug\AppDB.vbproj.GenerateResource.cache
+E:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\obj\Debug\AppDB.vbproj.CoreCompileInputs.cache
+E:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\obj\Debug\AppDB.exe
+E:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\obj\Debug\AppDB.xml
+E:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\obj\Debug\AppDB.pdb
+E:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\bin\Debug\AppDB.exe.config
+E:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\bin\Debug\AppDB.exe
+E:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\bin\Debug\AppDB.pdb
+E:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\bin\Debug\AppDB.xml
+E:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\bin\Debug\MySql.Data.dll
+E:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\bin\Debug\MySql.Data.xml
+E:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\obj\Debug\AppDB.vbproj.CopyComplete
+J:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\bin\Debug\AppDB.exe.config
+J:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\bin\Debug\AppDB.exe
+J:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\bin\Debug\AppDB.pdb
+J:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\bin\Debug\AppDB.xml
+J:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\bin\Debug\MySql.Data.dll
+J:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\bin\Debug\MySql.Data.xml
+J:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\obj\Debug\AppDB.vbprojAssemblyReference.cache
+J:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\obj\Debug\AppDB.ConnectionForm.resources
+J:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\obj\Debug\AppDB.Form1.resources
+J:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\obj\Debug\AppDB.Resources.resources
+J:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\obj\Debug\AppDB.vbproj.GenerateResource.cache
+J:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\obj\Debug\AppDB.vbproj.CoreCompileInputs.cache
+J:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\obj\Debug\AppDB.vbproj.CopyComplete
+J:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\obj\Debug\AppDB.exe
+J:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\obj\Debug\AppDB.xml
+J:\Semester 4\Visual Basic\Implementation\Final\AppDB\AppDB\obj\Debug\AppDB.pdb
